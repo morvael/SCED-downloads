@@ -11,11 +11,10 @@
       "UniqueBack": true
     }
   },
-  "Description": "Fool's Mate",
-  "GMNotes": "{\"TtsZoopGuid\":\"d7e2c771-ed44-48fa-a729-2096ea6635d8\"}",
+  "GMNotes_path": "AliceinWonderland.39916d/2-FFoolsMate.bd556e/FoolsMate.9be60a.gmnotes",
   "GUID": "9be60a",
   "Name": "Card",
-  "Nickname": "Scenario",
+  "Nickname": "Fool's Mate",
   "Tags": [
     "ScenarioCard"
   ],
