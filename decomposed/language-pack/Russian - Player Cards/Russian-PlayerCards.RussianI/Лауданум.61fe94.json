@@ -1,21 +1,21 @@
 {
-  "CardID": 266900,
+  "CardID": 278900,
   "CustomDeck": {
-    "2669": {
+    "2789": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14406173070663830789/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15073850108680874941/793E5BE04437B04F7CAC881D8E889841B3AFE30B/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12958908336954141835/8F958DFEB937D13B619968BF822359C3C44BD5E9/",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Доисторические письмена",
-  "GMNotes": "{\n  \"id\": \"11763\"\n}",
-  "GUID": "dde87d",
+  "Description": "Отчаянные меры",
+  "GMNotes": "{\n  \"id\": \"11762\"\n}",
+  "GUID": "61fe94",
   "Name": "Card",
-  "Nickname": "Инопланетная табличка",
+  "Nickname": "Лауданум",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
