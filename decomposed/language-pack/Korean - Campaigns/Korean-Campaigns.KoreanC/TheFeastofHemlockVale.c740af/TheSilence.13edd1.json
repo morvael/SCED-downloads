@@ -1,0 +1,26 @@
+{
+  "CardID": 540232,
+  "CustomDeck": {
+    "5402": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_11.jpg",
+      "FaceURL": "HLV_10.jpg",
+      "NumHeight": 6,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Agenda 1",
+  "GMNotes": "{\n  \"id\": \"10652\"\n}",
+  "GUID": "13edd1",
+  "Name": "Card",
+  "Nickname": "The Silence",
+  "SidewaysCard": true,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

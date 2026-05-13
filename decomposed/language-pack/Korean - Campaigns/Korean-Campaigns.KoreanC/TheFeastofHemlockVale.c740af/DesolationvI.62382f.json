@@ -1,0 +1,26 @@
+{
+  "CardID": 539002,
+  "CustomDeck": {
+    "5390": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_08.jpg",
+      "FaceURL": "HLV_07.jpg",
+      "NumHeight": 5,
+      "NumWidth": 8,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Agenda 2",
+  "GMNotes": "{\n  \"id\": \"10551\"\n}",
+  "GUID": "62382f",
+  "Name": "Card",
+  "Nickname": "Desolation (v.I)",
+  "SidewaysCard": true,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "CardID": 537805,
+    "CustomDeck": {
+        "5378": {
+            "BackIsHidden": true,
+            "BackURL": "HLV_02.jpg",
+            "FaceURL": "HLV_01.jpg",
+            "NumHeight": 5,
+            "NumWidth": 8,
+            "Type": 0,
+            "UniqueBack": true
+        }
+    },
+    "GMNotes": "{\n  \"id\": \"10675\"\n}",
+    "GUID": "114726",
+    "Name": "Card",
+    "Nickname": "Day One",
+    "Transform": {
+        "rotY": 270,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+    }
+}

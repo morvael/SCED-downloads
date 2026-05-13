@@ -1,0 +1,25 @@
+{
+  "CardID": 537915,
+  "CustomDeck": {
+    "5379": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_02.jpg",
+      "FaceURL": "HLV_01.jpg",
+      "NumHeight": 5,
+      "NumWidth": 8,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10689\"\n}",
+  "GUID": "1fb34b",
+  "Name": "Card",
+  "Nickname": "Lambs to the Slaughter",
+  "SidewaysCard": true,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

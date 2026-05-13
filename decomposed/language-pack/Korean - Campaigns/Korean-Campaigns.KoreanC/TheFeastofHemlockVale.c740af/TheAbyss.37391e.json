@@ -1,0 +1,24 @@
+{
+  "CardID": 540150,
+  "CustomDeck": {
+    "5401": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_11.jpg",
+      "FaceURL": "HLV_10.jpg",
+      "NumHeight": 6,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10670\"\n}",
+  "GUID": "37391e",
+  "Name": "Card",
+  "Nickname": "The Abyss",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

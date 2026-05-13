@@ -1,0 +1,26 @@
+{
+  "CardID": 538827,
+  "CustomDeck": {
+    "5388": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_05.jpg",
+      "FaceURL": "HLV_04.jpg",
+      "NumHeight": 6,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Act 2",
+  "GMNotes": "{\n  \"id\": \"10530\"\n}",
+  "GUID": "e14b09",
+  "Name": "Card",
+  "Nickname": "Against the House",
+  "SidewaysCard": true,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

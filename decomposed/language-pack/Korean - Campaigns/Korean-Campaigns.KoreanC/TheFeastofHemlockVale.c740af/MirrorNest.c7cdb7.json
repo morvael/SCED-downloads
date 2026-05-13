@@ -1,0 +1,27 @@
+{
+  "CardID": 540149,
+  "CustomDeck": {
+    "5401": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_11.jpg",
+      "FaceURL": "HLV_10.jpg",
+      "NumHeight": 6,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Shattered. Lair.",
+  "GMNotes": "{\n  \"id\": \"10669\"\n}",
+  "GUID": "c7cdb7",
+  "Grid": false,
+  "Name": "Card",
+  "Nickname": "Mirror Nest",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

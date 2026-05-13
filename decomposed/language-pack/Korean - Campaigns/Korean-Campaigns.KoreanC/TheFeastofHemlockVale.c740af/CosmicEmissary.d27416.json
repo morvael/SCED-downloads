@@ -1,0 +1,27 @@
+{
+  "CardID": 540142,
+  "CustomDeck": {
+    "5401": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_11.jpg",
+      "FaceURL": "HLV_10.jpg",
+      "NumHeight": 6,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "The Abyss",
+  "GMNotes": "{\n  \"id\": \"10662\"\n}",
+  "GUID": "d27416",
+  "Grid": false,
+  "Name": "Card",
+  "Nickname": "Cosmic Emissary",
+  "Snap": false,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

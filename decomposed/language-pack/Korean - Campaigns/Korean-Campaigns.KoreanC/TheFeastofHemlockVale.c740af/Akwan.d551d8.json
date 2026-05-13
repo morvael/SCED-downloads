@@ -1,0 +1,25 @@
+{
+  "CardID": 538915,
+  "CustomDeck": {
+    "5389": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_08.jpg",
+      "FaceURL": "HLV_07.jpg",
+      "NumHeight": 5,
+      "NumWidth": 8,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Coastal.",
+  "GMNotes": "{\n  \"id\": \"10575\"\n}",
+  "GUID": "d551d8",
+  "Name": "Card",
+  "Nickname": "Akwan",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

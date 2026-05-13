@@ -1,0 +1,27 @@
+{
+  "CardID": 540241,
+  "ContainedObjects_path": "ShatteredSelf.3551fb",
+  "CustomDeck": {
+    "5402": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_11.jpg",
+      "FaceURL": "HLV_10.jpg",
+      "NumHeight": 6,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Who Are You?",
+  "GMNotes": "{\n  \"id\": \"10661\"\n}",
+  "GUID": "3551fb",
+  "Name": "Card",
+  "Nickname": "Shattered Self",
+  "SidewaysCard": true,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1.15,
+    "scaleY": 1,
+    "scaleZ": 1.15
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "CardID": 537826,
+  "CustomDeck": {
+    "5378": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_02.jpg",
+      "FaceURL": "HLV_01.jpg",
+      "NumHeight": 5,
+      "NumWidth": 8,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Hemlock Vale.",
+  "GMNotes": "{\n  \"id\": \"10712\"\n}",
+  "GUID": "d8f13e",
+  "Name": "Card",
+  "Nickname": "The Commons",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

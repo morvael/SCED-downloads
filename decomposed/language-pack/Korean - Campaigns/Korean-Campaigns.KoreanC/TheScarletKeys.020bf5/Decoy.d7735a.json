@@ -1,25 +1,24 @@
 {
-    "CardID": 587517,
-    "CustomDeck": {
-        "5875": {
-            "BackIsHidden": true,
-            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387229452/B0883940A23A9E63B99FF9CA6A344C3C57EC3257/",
-            "FaceURL": "TSK_19.jpg",
-            "NumHeight": 5,
-            "NumWidth": 6,
-            "Type": 0
-        }
-    },
-    "Description": "Void Chimera (Fellbeak)",
-    "GMNotes": "{\n  \"id\": \"HC0917\",\n  \"type\": \"Decoy\"\n}",
-    "GUID": "d7735a",
-    "Name": "Card",
-    "Nickname": "Decoy",
-    "Transform": {
-        "rotY": 270,
-        "rotZ": 180,
-        "scaleX": 0.6,
-        "scaleY": 1,
-        "scaleZ": 0.6
+  "CardID": 587517,
+  "CustomDeck": {
+    "5875": {
+      "BackIsHidden": true,
+      "BackURL": "TSK_20.jpg",
+      "FaceURL": "TSK_19.jpg",
+      "NumHeight": 5,
+      "NumWidth": 6,
+      "Type": 0
     }
+  },
+  "Description": "Void Chimera (Fellbeak)",
+  "GMNotes": "{\n  \"id\": \"HC0917\"\n}",
+  "GUID": "d7735a",
+  "Name": "Card",
+  "Nickname": "Decoy",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 0.6,
+    "scaleY": 1,
+    "scaleZ": 0.6
+  }
 }

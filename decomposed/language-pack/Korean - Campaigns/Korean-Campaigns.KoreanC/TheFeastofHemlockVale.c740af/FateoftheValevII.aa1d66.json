@@ -1,0 +1,26 @@
+{
+  "CardID": 540238,
+  "CustomDeck": {
+    "5402": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_11.jpg",
+      "FaceURL": "HLV_10.jpg",
+      "NumHeight": 6,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Act 3",
+  "GMNotes": "{\n  \"id\": \"10658\"\n}",
+  "GUID": "aa1d66",
+  "Name": "Card",
+  "Nickname": "Fate of the Vale (v.II)",
+  "SidewaysCard": true,
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

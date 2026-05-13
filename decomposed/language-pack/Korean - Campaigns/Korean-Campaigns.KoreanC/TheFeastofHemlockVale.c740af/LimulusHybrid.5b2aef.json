@@ -1,0 +1,25 @@
+{
+  "CardID": 538923,
+  "CustomDeck": {
+    "5389": {
+      "BackIsHidden": true,
+      "BackURL": "HLV_08.jpg",
+      "FaceURL": "HLV_07.jpg",
+      "NumHeight": 5,
+      "NumWidth": 8,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Monster. Abomination. Elite.",
+  "GMNotes": "{\n  \"id\": \"10583\"\n}",
+  "GUID": "5b2aef",
+  "Name": "Card",
+  "Nickname": "Limulus Hybrid",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
