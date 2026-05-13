@@ -1,0 +1,24 @@
+{
+    "CardID": 587524,
+    "CustomDeck": {
+        "5875": {
+            "BackIsHidden": true,
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387229452/B0883940A23A9E63B99FF9CA6A344C3C57EC3257/",
+            "FaceURL": "TSK_19.jpg",
+            "NumHeight": 5,
+            "NumWidth": 6,
+            "Type": 0
+        }
+    },
+    "GMNotes": "{\n  \"id\": \"HC0905\",\n  \"type\": \"Decoy\"\n}",
+    "GUID": "0ae3a2",
+    "Name": "Card",
+    "Nickname": "City of Remnants (L)",
+    "Transform": {
+        "rotY": 270,
+        "rotZ": 180,
+        "scaleX": 0.6,
+        "scaleY": 1,
+        "scaleZ": 0.6
+    }
+}
