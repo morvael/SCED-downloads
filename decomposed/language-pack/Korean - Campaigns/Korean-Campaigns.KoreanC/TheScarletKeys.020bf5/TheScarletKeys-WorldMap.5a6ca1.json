@@ -12,8 +12,8 @@
       "Type": 0
     },
     "ImageScalar": 1,
-    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/9358420645496028549/5F1A5C2B45BD5C2C4F4D76DEEF99C32EEF6EC057/",
-    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/16154866916508399154/2974149D973D0B2ED0A3A01437C0F4328A5D9967/",
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/1974294597230327710/5F1A5C2B45BD5C2C4F4D76DEEF99C32EEF6EC057/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/17664437380398362080/771EC962BB73063262393C6DE0518B06554403C7/",
     "WidthScale": 0
   },
   "GMNotes": "{\n  \"id\": \"WM09\"\n}",
@@ -21,7 +21,7 @@
   "Hands": false,
   "Locked": true,
   "Name": "Custom_Tile",
-  "Nickname": "Алые Ключи - Карта Мира",
+  "Nickname": "The Scarlet Keys - World Map",
   "Tooltip": false,
   "Transform": {
     "rotY": 270,
